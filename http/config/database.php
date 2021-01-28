@@ -14,13 +14,13 @@ return [
       // 数据库类型
       'type'            => 'mysql',
       // 服务器地址
-      'hostname'        => '127.0.0.1',
+      'hostname'        => '47.108.130.77',
       // 数据库名
       'database'        => 'im',
       // 用户名
-      'username'        => 'im',
+      'username'        => 'root',
       // 密码
-      'password'        => 'kRfHRHN4XeJYaSP8',
+      'password'        => 'lcb369',
       // 端口
       'hostport'        => '3306',
       // 数据库编码默认采用utf8
