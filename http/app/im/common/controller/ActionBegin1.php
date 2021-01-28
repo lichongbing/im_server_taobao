@@ -38,7 +38,9 @@ class ActionBegin1
       /** 赋值user_id为一个常量 */
       define("USER_ID",($token['user_id'] * 1));
       /** 这里设置GatwayWork服务地址 */
-      Gateway::$registerAddress = '111.229.246.92:1236';
+      //Gateway::$registerAddress = '111.229.246.92:1236';
+        //Gateway::$registerAddress = '171.223.215.125:1236';
+        Gateway::$registerAddress = '121.4.163.89:1236';
     }
   }
 
