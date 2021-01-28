@@ -8,7 +8,8 @@ class Config
     
     /** 获取本机ip */
     public static function getLocalIP() {
-        return "111.229.246.92";
+        //return "111.229.246.92";
+        return "121.4.163.89";
         // $preg = "/\A((([0-9]?[0-9])|(1[0-9]{2})|(2[0-4][0-9])|(25[0-5]))\.){3}(([0-9]?[0-9])|(1[0-9]{2})|(2[0-4][0-9])|(25[0-5]))\Z/";
         // exec("ipconfig", $out, $stats);
         // if (!empty($out)) {
