@@ -1,2 +1,7 @@
 .vscode
-vendor
+*.apk
+*.log
+*.temp
+*.tar
+*.zip
+*.rar
